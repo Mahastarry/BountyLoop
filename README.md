@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ⚡ BountyLoop
 
-# Run and deploy your AI Studio app
+### Real problems. Real bounties. Real builders.
 
-This contains everything you need to run your app locally.
+BountyLoop connects organizations with developers to solve real software problems through funded technical bounties.
 
-View your app in AI Studio: https://ai.studio/apps/05832ef4-1ffd-491d-a859-be1b35904c67
+## 🚀 How It Works
 
-## Run Locally
+**Submit → Review → Fund → Apply → Build → Approve → Get Paid**
 
-**Prerequisites:**  Node.js
+- 💰 Funded technical bounties
+- 👩‍💻 Developer applications
+- 🐙 GitHub-based development
+- 🔎 Bounty discovery
+- 👥 Creator & developer dashboards
+- 🔐 Authentication
+- ⚡ 6.6% platform fee
 
+## 💸 Beta
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+During beta, bounty approval, funding verification, and developer payouts are handled manually.
+
+Creators submit bounties through our Google Form:
+
+👉 https://forms.gle/CuN8tdj7FpQobBUd8
+
+Approved bounties become available to developers after funding is verified.
+
+Developers are paid after their completed work is approved by the creator.
+
+## 🛠️ Built With
+
+React · TypeScript · Vite · Node.js · Express · GitHub · Vercel
+
+## 🧪 Status
+
+**BountyLoop is currently in beta.**
+
+### Build what matters. Get rewarded for shipping. ⚡
