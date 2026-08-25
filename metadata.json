@@ -1,0 +1,6 @@
+{
+  "name": "BountyLoop",
+  "description": "A minimalistic marketplace for funded technical bounties and builder solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
